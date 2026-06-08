@@ -6,7 +6,7 @@ This repository contains my C programming practice codes and logic building prog
 ---
 
 ## 📂 Topics Covered
-
+   
 ### 🔹 Basic Programs
 - Number square
 - Power calculation
